@@ -1,0 +1,23 @@
+\documentclass[11pt]{article} \usepackage{amsmath,amssymb,amsfonts} \usepackage{graphicx} \setlength{\topmargin}{-.5in} \setlength{\textheight}{9.25in} \setlength{\oddsidemargin}{0in} \setlength{\textwidth}{6.8in} \begin{document} \Large \noindent{\bf Automatic Math Test Maker \hfill Monday } \medskip\hrule \begin{enumerate}
+\item What is 3 x 0? 
+\begin{enumerate} 
+\item 24
+\item 6
+\item 0
+\item 3
+\end{enumerate} 
+\item What is 6 x 10? 
+\begin{enumerate} 
+\item 12
+\item 18
+\item 60
+\item 0
+\end{enumerate} 
+\item What is 6 x 5? 
+\begin{enumerate} 
+\item 10
+\item 28
+\item 20
+\item 30
+\end{enumerate} 
+\end{enumerate} \end{document}
